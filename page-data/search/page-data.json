@@ -1,1 +1,0 @@
-{"componentChunkName":"component---src-pages-search-js","path":"/search/","webpackCompilationHash":"1f0d94973c19ad9527ff","result":{"data":{"allMarkdownRemark":{"edges":[{"node":{"rawMarkdownBody":"\nHello World!","fields":{"slug":"/first-post/"},"frontmatter":{"title":"First Kon Post","published":true}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":true}}}
